@@ -9,6 +9,7 @@ Here are some of the simple recursive algorithms implemented
 3. fibonacci series with memoization
 4. factorial of a number
 5. exponent/ power
+6. Tower of hanoi
 
 # List of files:
 1. sum.java
@@ -16,3 +17,4 @@ Here are some of the simple recursive algorithms implemented
 3. fibo_memoization.java
 4. fact.java
 5. exp.java
+6. towerofhanoi.java
