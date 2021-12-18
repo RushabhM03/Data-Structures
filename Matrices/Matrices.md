@@ -7,4 +7,5 @@ A matrix is a 2 dimensional array. It has a dimension of (m x n) where m is the 
 1. upper triangular matrix
 2. lower triangular matrix
 3. diagonal matrix
-4. sparse matrix (seperate folder)
+4. toeplitz matrix
+5. sparse matrix (seperate folder)
