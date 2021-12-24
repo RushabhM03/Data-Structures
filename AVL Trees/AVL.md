@@ -19,4 +19,4 @@ Note:
 
 ## Files included:
 1. AVL_Node.java
-2. AVL.java
+2. AVL_tree.java
