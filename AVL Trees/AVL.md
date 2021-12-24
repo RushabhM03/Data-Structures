@@ -14,9 +14,11 @@ Note:
     4. RL rotation
 
 ## Class diagram
-<img width="245" alt="image" src="https://user-images.githubusercontent.com/68846562/147338692-8f9c87db-ab5e-4477-8788-322195958bda.png">
+<img width="295" alt="image" src="https://user-images.githubusercontent.com/68846562/147344277-2ec354ae-b21b-476f-85be-c522f2c33f12.png">
 
 
 ## Files included:
 1. AVL_Node.java
 2. AVL_tree.java
+3. AVL_interface.java
+4. AVL_test.java
